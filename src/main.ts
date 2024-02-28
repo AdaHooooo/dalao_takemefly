@@ -1,4 +1,3 @@
-
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 import '@/styles/reset.scss'
@@ -14,5 +13,5 @@ const app = createApp(App)
 app.use(createPinia())
 app.use(router)
 
-app.component('DaLaoTop',DaLaoTop)
+app.component('DaLaoTop', DaLaoTop)
 app.mount('#app')
