@@ -1,6 +1,6 @@
 # dalao_takemefly
 
-This template should help get you started developing with Vue 3 in Vite.
+打算弄一个习得养成记的项目，正在进行中
 
 ## Recommended IDE Setup
 
